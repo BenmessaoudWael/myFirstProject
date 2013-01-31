@@ -6,8 +6,8 @@ public class MyFirstClass {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.printf("Hello");
-
+		// TODO Auto-generated method stub
+System.out.println("hi ...");
 	}
 
 }
